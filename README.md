@@ -41,3 +41,8 @@ Este módulo contém funções auxiliares que são utilizadas no arquivo princip
    python Projeto1.0.py
    ```
 5. Siga as instruções exibidas no menu para interagir com a aplicação.
+
+## Participantes
+- João Pedro Pirolo Oliveira / 242027371
+- Pedro Henrique Figueira Santiago / 242011999
+- Francisco Evangelista da Silva Filho / 242033127
